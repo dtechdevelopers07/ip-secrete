@@ -1,6 +1,6 @@
 # Hosting url to be used for adding server entry to database and show progress on web
 _DOMAIN="vpnguru.agronexus.org"
-HOSTING_DOMAIN="https://"$_DOMAIN"/";
+HOSTING_DOMAIN="http://"$_DOMAIN"/";
 #url for progress
 PROGRESS_URL=$HOSTING_DOMAIN"progress/";
 #url fot adding record to database;
