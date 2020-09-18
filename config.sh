@@ -1,5 +1,5 @@
 # Hosting url to be used for adding server entry to database and show progress on web
-_DOMAIN="ipsecrete.com"
+_DOMAIN="cp.ipsecrete.com"
 HOSTING_DOMAIN="https://"$_DOMAIN"/";
 #url for progress
 PROGRESS_URL=$HOSTING_DOMAIN"progress/";
